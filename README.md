@@ -8,8 +8,10 @@
   * [Quick Video](https://www.youtube.com/watch?v=i2Li1vnv09U)
   * [Live Editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom)
   * [Dynamic Inspection](https://blogs.endjin.com/2015/03/amazingly-useful-chrome-developer-tips-1-inspecting-dynamically-created-dom-elements/)
+* [python tutor for the dom](https://software.hixie.ch/utilities/js/live-dom-viewer/)
+  * great for little html scripts
 * [_Highly_ recommended DOM tutorial](https://dom-tutorials.appspot.com/static/index.html)
-  * This tutorial is designed to be inspected as you complete it.  
+  * This tutorial is designed to be followed from the insepctor.  
 * [Great little video tutorial](https://www.youtube.com/watch?v=e57ReoUn6kM)
 * [Event Listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * [A DOM markdown](https://github.com/elewa-academy/General-Resources/blob/85125b999b74f6e757b8357758bc1ccbff0b2824/javascript/dom.md)
