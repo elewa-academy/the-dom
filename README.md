@@ -5,7 +5,7 @@
 * [What is the DOM?](https://www.w3schools.com/js/js_htmldom.asp)
 * ChromeDev, working with the DOM
   * [OverView](https://developer.chrome.com/devtools)
-  * [Quick Video](How-to: DOM Inspector in Google Chrome : Google Chrome Tips ...)
+  * [Quick Video](https://www.youtube.com/watch?v=i2Li1vnv09U)
   * [Live Editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom)
   * [Dynamic Inspection](https://blogs.endjin.com/2015/03/amazingly-useful-chrome-developer-tips-1-inspecting-dynamically-created-dom-elements/)
 * [_Highly_ recommended DOM tutorial](https://dom-tutorials.appspot.com/static/index.html)
