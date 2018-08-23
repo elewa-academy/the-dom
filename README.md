@@ -12,6 +12,7 @@
   * great for little html scripts
 * [_Highly_ recommended DOM tutorial](https://dom-tutorials.appspot.com/static/index.html)
   * This tutorial is designed to be followed from the insepctor.  
+* [Traversy Media - video tutorials](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)  
 * [Great little video tutorial](https://www.youtube.com/watch?v=e57ReoUn6kM)
 * [Event Listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * [A DOM markdown](https://github.com/elewa-academy/General-Resources/blob/85125b999b74f6e757b8357758bc1ccbff0b2824/javascript/dom.md)
